@@ -1,6 +1,8 @@
 # Front-end developer
 ## **Volha Saroka**
+
 ![Photo](Ptoto_of_me.jpg)
+
 ### tel.+375(29)-144-96-97
 ### email: Olka20102000@gmail.com
 ### Date of birth: 29.09.2000
