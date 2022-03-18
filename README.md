@@ -1,1 +1,1 @@
-https://OlkaSoroka.github.io/rsschool-cv/
+https://SorokaOlka.github.io/rsschool-cv/
